@@ -1,0 +1,15 @@
+# Build folders (IMPORTANT)
+Debug/
+Release/
+
+# Eclipse / MCUXpresso
+.settings/
+.metadata/
+
+# Temporary files
+*.log
+*.tmp
+
+# OS
+.DS_Store
+Thumbs.db
