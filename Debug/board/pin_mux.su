@@ -1,4 +1,0 @@
-D:\nxp\MCUXpressoIDE_25.6.136\workspace\frdmmcxn947_led_blinky_peripheral_cm33_core0\drivers/fsl_clock.h:1492:20:CLOCK_EnableClock	24	static
-D:\nxp\MCUXpressoIDE_25.6.136\workspace\frdmmcxn947_led_blinky_peripheral_cm33_core0\drivers/fsl_port.h:360:20:PORT_SetPinConfig	32	static
-../board/pin_mux.c:35:6:BOARD_InitBootPins	8	static
-../board/pin_mux.c:60:6:BOARD_InitPins	16	static
